@@ -1,20 +1,22 @@
 # Operating-System
 
-#Assignment 1
-  #Simpletron
-      #->util.c
-      #->simpletron.c
-      #->myheader.h
-      #->makefile
+**Assignment 1**
+    **Simpletron**
+		
+      ->util.c
+      ->simpletron.c
+      ->myheader.h
+      ->makefile
       
-#LabTask 1
+**LabTask 1**
 
-  #->main.c
-  #->myheader.h
+  	 ->main.c
+		 ->myheader.h
   
-#LabTask 2  
+  
+**LabTask 2** 
 
-  #->MatMult.java
+ 	 ->MatMult.java
   
   
   
