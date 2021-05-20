@@ -80,7 +80,7 @@ void *socket_t(void *arg)
   
          
 	   
-	    
+	    do
 	    {
 		    n = read(newsockfd, &c, 1);
 		    if (n < 0)
