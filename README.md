@@ -17,6 +17,16 @@
 **LabTask 2** 
 
  	 ->MatMult.java
+	 
+**S1**	
+
+	->Parentwritechild
+	->ChildpipewriteParent
+	
+**S2**	
+
+	Implement/Modify Server2 code using Multithreading
+
   
  
   
