@@ -3,10 +3,10 @@
 **Assignment 1**
     **Simpletron**
 		
-      ->util.c
-      ->simpletron.c
-      ->myheader.h
-      ->makefile
+     	->util.c
+     	->simpletron.c
+      	->myheader.h
+      	->makefile
       
 **LabTask 1**
 
